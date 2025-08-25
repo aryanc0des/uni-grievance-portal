@@ -1,2 +1,36 @@
-# uni-grievance-portal
-A university grievance portal for students to submit, track, and resolve complaints efficiently.
+# 🎓 Uni Grievance Portal
+
+A simple portal to streamline the grievance redressal process in universities.  
+Built to help students submit complaints easily, and allow admins to track, respond, and resolve them efficiently.
+
+---
+
+## 🚀 Features
+- 🧑‍🎓 **Students**
+  - Submit grievances online
+  - Track status in real-time
+  - Receive notifications on updates
+
+- 🛠️ **Admins**
+  - View and manage grievances
+  - Mark issues as resolved
+  - Reply/communicate with students
+
+- 🔐 **Authentication**
+  - Secure student login
+  - Admin dashboard login
+
+---
+
+## 🏗️ Tech Stack
+- **Frontend:** React (or Next.js / React Native if mobile-first)
+- **Backend:** Node.js + Express (with Firebase for auth & storage, optional)
+- **Database:** Firebase Firestore / MySQL (based on requirements)
+
+---
+
+## 📂 Project Setup
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/uni-grievance-portal.git
+   cd uni-grievance-portal
