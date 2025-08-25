@@ -23,9 +23,9 @@ Built to help students submit complaints easily, and allow admins to track, resp
 ---
 
 ## 🏗️ Tech Stack
-- **Frontend:** React (or Next.js / React Native if mobile-first)
-- **Backend:** Node.js + Express (with Firebase for auth & storage, optional)
-- **Database:** Firebase Firestore / MySQL (based on requirements)
+- **Frontend:** React Native (cross-platform app)
+- **Backend:** Node.js + Express 
+- **Database & Authentication:** Firebase 
 
 ---
 
